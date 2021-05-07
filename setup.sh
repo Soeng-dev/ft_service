@@ -1,1 +1,1 @@
-FROM	alpine:linux
+FROM	alpine
